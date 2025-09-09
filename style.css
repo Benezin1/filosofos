@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(180, 234, 255);
+    color: #f77802;
+    font-family: "Linden Hill", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0%;
+}   
+
+button {
+    background-color: cornflowerblue;
+    color: coral; font-family: "Linden Hill", serif;
+}
